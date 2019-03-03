@@ -1,2 +1,2 @@
-![Eat the Burger]/public/assets/images/burgerlg.png
+![Eat the Burger]/public/assets/img/burgerlg.jpg
 # burger
