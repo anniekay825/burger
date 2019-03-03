@@ -11,6 +11,8 @@ Use the package manager [npm](https://www.npmjs.com/) to install the needed pack
 npm install express
 npm install mysql
 npm install express-handlebars
+
+node server.js
 ```
 ## How to Utilize
 
