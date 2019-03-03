@@ -7,7 +7,7 @@ This application allows you to view, add, or delete different types of burgers. 
 
 Use the package manager [npm](https://www.npmjs.com/) to install the needed packages.
 
-(https://img.shields.io/npm/collaborators/handlebars.svg)
+![ ](https://img.shields.io/npm/collaborators/handlebars.svg)
 
 ```bash
 npm install express
