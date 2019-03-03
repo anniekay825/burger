@@ -7,9 +7,10 @@ This application allows you to view, add, or delete different types of burgers. 
 
 Use the package manager [npm](https://www.npmjs.com/) to install the needed packages.
 
-![ ](https://img.shields.io/npm/collaborators/handlebars.svg)
+![ ](https://img.shields.io/npm/collaborators/express.svg)
 
 ```bash
+npm init
 npm install express
 npm install mysql
 npm install express-handlebars
@@ -19,7 +20,10 @@ npm install express-handlebars
 node server.js
 ```
 
-Add a burger
+- Add a burger
+- Devour a burger
+- Delete a burger
+- Repeat as desired
 
 
 
