@@ -14,5 +14,5 @@ npm install express-handlebars
 ```
 ## How to Utilize
 
-![App](/public/assets/img/Capture1.png)
+![App](/public/assets/img/Capture1.PNG)
 
