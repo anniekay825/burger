@@ -7,7 +7,7 @@ This application allows you to view, add, or delete different types of burgers. 
 
 Use the package manager [npm](https://www.npmjs.com/) to install the needed packages.
 
-![ ](https://img.shields.io/npm/collaborators/express.svg)
+![ ](https://img.shields.io/github/last-commit/anniekay825/burger.svg?color=blue)
 
 ```bash
 npm init
@@ -24,7 +24,6 @@ node server.js
 - Devour a burger
 - Delete a burger
 - Repeat as desired
-
 
 
 ![App](/public/assets/img/Capture1.PNG)
